@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+}
+
+.product-img {
+  width: 50px;
+}
+
+.product-img-view {
+  width: 120px;
+}
+/*# sourceMappingURL=app.css.map */
